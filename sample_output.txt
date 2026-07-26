@@ -1,0 +1,55 @@
+=========== HOTEL MANAGEMENT SYSTEM ===========
+
+1. Display Hotels
+2. Sort Hotels by Name
+3. Sort Hotels by Rating
+4. Sort Hotels by Available Rooms
+5. Search Hotels by City
+6. Display Customer Bookings
+7. Exit
+
+===============================================
+
+Enter your choice : 2
+
+Hotels Sorted By Name
+
+------ HOTEL DETAILS ------
+
+Hotel Name       : H1
+Available Rooms  : 4
+Location         : Bangalore
+Rating           : 5
+Price Per Room   : ₹100
+------------------------------------------
+
+
+Hotel Name       : H2
+Available Rooms  : 5
+Location         : Bangalore
+Rating           : 5
+Price Per Room   : ₹200
+------------------------------------------
+
+
+Hotel Name       : H3
+Available Rooms  : 6
+Location         : Mumbai
+Rating           : 3
+Price Per Room   : ₹100
+------------------------------------------
+
+
+=========== HOTEL MANAGEMENT SYSTEM ===========
+
+1. Display Hotels
+2. Sort Hotels by Name
+3. Sort Hotels by Rating
+4. Sort Hotels by Available Rooms
+5. Search Hotels by City
+6. Display Customer Bookings
+7. Exit
+
+===============================================
+
+Enter your choice : 
